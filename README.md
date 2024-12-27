@@ -20,18 +20,11 @@ A análise foi realizada utilizando a metodologia de benchmarking, comparando os
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### Dashboard Interativo
+### Dashboard Análise de concorrencia
 
-<img src="" alt="Excel" />
+<img src="dashboard.jpg" alt="Excel" />
 
-Este dashboard interativo, desenvolvido no Power BI, permite uma visualização clara dos principais insights da análise. É possível explorar os dados de forma detalhada e identificar as principais oportunidades de melhoria.
-
-### Contribuições
-
-Agradecemos a [nome da instituição] pela oportunidade de contribuir com este projeto.
+### Linkedin
 
 **https://www.linkedin.com/in/arymanreis/**
 
-**Lembre-se de substituir os placeholders (entre colchetes) pelas informações específicas do seu projeto.**
-
-**Gostaria de adicionar mais alguma coisa ao README?**
