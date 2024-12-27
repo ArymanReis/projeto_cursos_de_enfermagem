@@ -6,7 +6,14 @@
 **Período:** Dezembro de 2024
 **Tipo:** Projeto Voluntário
 
-Este projeto tem como objetivo avaliar a performance de escolas de enfermagem no Google Meu Negócio. Através de uma análise detalhada, buscamos identificar oportunidades de melhoria e fortalecer a posição da empresa Invictus no mercado educacional.
+Propor uma análise do posicionamento da empresa Invictus no mercado, com foco na percepção dos clientes. Para tanto, será realizado um estudo quantitativo das avaliações e pontuações da empresa no Google Meu Negócio, comparando-as com as dos principais concorrentes. O objetivo é identificar os pontos fortes e fracos da Invictus, compreender o nível de satisfação dos clientes e extrair insights estratégicos para otimizar sua atuação no mercado.
+
+Perguntas que irei responder:
+- Qual é a unidade Invictus melhor avaliada?
+- Qual unidade tem o maior número de avaliações?
+- Qual a média de avaliação da empresa Invictus?
+- Qual é o posicionamento da Invictus em relação aos seus concorrentes?
+- Qual é a empresa com a maior média de avaliações no meu mercado?
 
 ### Metodologia
 
